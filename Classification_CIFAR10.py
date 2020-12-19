@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Flora Hyomin Seo 
+# Flora Seo 
 # 2020/10/8
 # Deep Learning_Project4
 
